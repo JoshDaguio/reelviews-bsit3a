@@ -1,0 +1,234 @@
+:root {
+    --font-family-primary: 'Dela Gothic One', sans-serif;
+    --font-family-secondary: 'DM Sans', sans-serif; 
+}
+ 
+body {
+    background-color: #f5f5f5;
+}
+
+.home-header {
+    position: relative;
+    text-align: center;   
+}
+
+.home-title {
+    font-family: var(--font-family-primary);
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.home-hr {
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: 8%;
+    border: none;
+    border: 2px solid #731010;
+}
+
+.home-subtitle {
+    color: white;
+    z-index: 1;
+    position: absolute;
+    top: 62%; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.home-img {
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    height: 600px;
+}
+
+.about-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 60%;
+    padding: 25px 190px;
+}
+
+p {
+    font-family:var(--font-family-secondary);
+    text-align: justify;
+}
+
+h2 {
+    font-family: var(--font-family-primary);
+    text-align: center;
+    color: #000000;
+}
+
+hr {
+    border: 2px solid #731010;
+    width: 11.5%;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+/* About Details */
+
+.cta {
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../Images/about-us-1.jpg") fixed center center;
+    background-size: cover;
+    padding: 120px 0;
+    background-color: #191919;
+    opacity: 0.95;
+}
+
+.cta h3 {
+    color: white;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.cta h2 {
+    color: white;
+}
+
+.cta p {
+    color: white;
+}
+
+.cta-btn {
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding: 10px 30px;
+    width: 175px;
+    background-color: #731010;
+    border: 1px solid #731010;
+    color: white; 
+    cursor: pointer;
+    font-family: var(--font-family-secondary);
+    font-weight: bold;
+    text-align: center;
+}
+  
+.cta-btn:hover {
+    background-color: black;
+    border: 1px solid black;
+    color: white; 
+}
+
+.about-hr {
+    width: 90px;    
+    margin-top: 20px;
+    margin-bottom: 25px;
+    border: 2px solid #731010;
+    margin-left: 0; 
+}
+ 
+/* Card */
+
+.card-img {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: 40%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.card-title {
+    font-family: 'Spline Sans', 'sans-serif';
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+}
+
+.card-text {
+    margin-top: 10px;
+    color: #969696;
+    text-align: left;
+}
+
+.card-btn {
+    display: inline-block;
+    text-align: center;
+    font-family: var(--font-family-secondary);
+    font-size: 15px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+    background-color: #000000;
+    color: white;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+.card-btn:hover {
+    background-color: #731010;
+    color: white;
+    border: 1px solid #731010;
+}
+  
+.btn-sm {
+    background-color: #731010;
+    font-family: var(--font-family-secondary);
+    font-size: x-small;
+    border-radius: 5px;
+}
+
+.quote-container {
+    background-color: #000000;
+    padding: 0 400px;
+    text-align: center;
+}
+
+.quote {
+    font-family: var(--font-family-primary);
+}
+
+.quote-by {
+    text-align: center;
+}
+
+.contact-details {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.contact-container {
+    display: flex;
+    padding: 90px 190px;
+}
+
+.contact-title {
+    text-align: left;
+}
+
+.contact-hr {
+    width: 90px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    border: 2px solid #731010;
+    margin-left: 0;
+}
+
+.contact-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-img-1,
+.contact-img-2 { 
+    width: 97%;
+    height: 390px;
+    object-fit: cover;
+    justify-content: center;
+}
+
+.contact-img-2 {
+    margin-left: 20px;
+}

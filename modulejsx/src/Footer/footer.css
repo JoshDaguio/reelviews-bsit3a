@@ -1,0 +1,12 @@
+footer {
+    display: flex;
+    background-color: black;
+    padding: 35px 190px 20px 190px;
+    margin-top: auto;
+    justify-content: flex-end;
+    font-family: 'Spline Sans', sans-serif;
+}
+  
+.footer-title {
+    color: #731010;
+}

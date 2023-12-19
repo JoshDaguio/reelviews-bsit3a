@@ -1,0 +1,39 @@
+.navbar {
+    background-color: black; 
+    padding: 25px 190px;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; 
+}
+
+.nav-link {
+    color: white !important; 
+    transition: color 0.3s; 
+    text-decoration: none;
+    font-family: 'DM Sans', sans-serif;
+}
+  
+.nav-link:hover {
+    color: #731010 !important; 
+    text-decoration: underline; 
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.website-title {
+    font-family: 'Dela Gothic One', sans-serif;
+    margin-left: 10px;
+}
+
+.username-nav {
+    color: #731010;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 5px;
+}

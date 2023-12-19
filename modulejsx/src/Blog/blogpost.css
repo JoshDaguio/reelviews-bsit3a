@@ -1,0 +1,42 @@
+h3 {
+	font-family: 'Dela Gothic One', sans-serif;
+	color: #020101;
+}
+
+h4 {
+	font-family: 'DM Sans', sans-serif;
+	color: #020101;
+	font-weight: 700;
+}
+
+p {
+	font-family: 'DM Sans', sans-serif;
+	text-align: justify;
+}
+
+.post-content {
+	text-align: left;
+}
+
+a {
+	font-family: 'DM Sans', sans-serif;
+	text-decoration: none; 
+	color: #333; 
+}
+
+a:hover {
+	color: #731010; 
+	text-decoration: none; 
+}
+
+.img-container {
+	height: 100%;
+	overflow: hidden;
+	border-radius: 10px;
+}
+
+.img-fluid {
+	height: 100%;
+	object-fit: cover;
+	border-radius: 10px;
+}
