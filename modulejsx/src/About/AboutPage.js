@@ -84,6 +84,7 @@ export class AboutPage extends Component {
 					memberRole="Front-End Developer"
 					section="BSIT 3A"
 					onInstagram={this.handleInstagram2} // Pass Function as Prop
+					onFacebook={this.handleFacebook2}
 					onGithub={this.handleGithub2} 
 				/>
 
