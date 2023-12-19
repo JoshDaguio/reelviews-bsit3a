@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reelviews-bsit3a/static/css/main.9e4ce0f5.css",
+    "main.js": "/reelviews-bsit3a/static/js/main.860d6b84.js",
+    "static/js/787.2a3276af.chunk.js": "/reelviews-bsit3a/static/js/787.2a3276af.chunk.js",
+    "static/media/contact-2.png": "/reelviews-bsit3a/static/media/contact-2.8a760032f90190b56f8c.png",
+    "static/media/anticipated-movies-1.jpg": "/reelviews-bsit3a/static/media/anticipated-movies-1.f25926c0a0da65fbd981.jpg",
+    "static/media/home-welcome-1.jpg": "/reelviews-bsit3a/static/media/home-welcome-1.6391c85bbd561798288d.jpg",
+    "static/media/movie-reviews-1.jpg": "/reelviews-bsit3a/static/media/movie-reviews-1.7d09e5dfa138c4009f9d.jpg",
+    "static/media/cinematic-letdowns-1.jpg": "/reelviews-bsit3a/static/media/cinematic-letdowns-1.35d675d3db67e300f0f0.jpg",
+    "static/media/discover-blockbuster-1.jpg": "/reelviews-bsit3a/static/media/discover-blockbuster-1.5df638341b565f1f8b30.jpg",
+    "static/media/contact-1.jpg": "/reelviews-bsit3a/static/media/contact-1.42fea1b9940d34f0fa15.jpg",
+    "static/media/mission-1.jpg": "/reelviews-bsit3a/static/media/mission-1.08874ebc1b766b0b906b.jpg",
+    "static/media/inception-1.jpg": "/reelviews-bsit3a/static/media/inception-1.807688bbb5e48c2766d2.jpg",
+    "static/media/about-us-1.jpg": "/reelviews-bsit3a/static/media/about-us-1.7be7c29ddf54335668aa.jpg",
+    "static/media/hottest-tv-shows-1.jpg": "/reelviews-bsit3a/static/media/hottest-tv-shows-1.5ebfe286e120c4f03d22.jpg",
+    "static/media/kristine.png": "/reelviews-bsit3a/static/media/kristine.ea4b0d7812c054975b06.png",
+    "static/media/el-j.png": "/reelviews-bsit3a/static/media/el-j.24bcf9f54218ab58dd2e.png",
+    "static/media/paul.png": "/reelviews-bsit3a/static/media/paul.d306c6f206b8ec3c9e3f.png",
+    "static/media/parasite-1.jpg": "/reelviews-bsit3a/static/media/parasite-1.edb561169103cda62991.jpg",
+    "static/media/josh.png": "/reelviews-bsit3a/static/media/josh.01a7f822148a1080ee54.png",
+    "static/media/bootstrap-icons.woff?": "/reelviews-bsit3a/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/reelviews-bsit3a/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/friends-1.jpeg": "/reelviews-bsit3a/static/media/friends-1.3c087952446c06f945f8.jpeg",
+    "static/media/logo-2.png": "/reelviews-bsit3a/static/media/logo-2.eeedde3ca3eb4f84eca5.png",
+    "index.html": "/reelviews-bsit3a/index.html",
+    "main.9e4ce0f5.css.map": "/reelviews-bsit3a/static/css/main.9e4ce0f5.css.map",
+    "main.860d6b84.js.map": "/reelviews-bsit3a/static/js/main.860d6b84.js.map",
+    "787.2a3276af.chunk.js.map": "/reelviews-bsit3a/static/js/787.2a3276af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4ce0f5.css",
+    "static/js/main.860d6b84.js"
+  ]
+}
