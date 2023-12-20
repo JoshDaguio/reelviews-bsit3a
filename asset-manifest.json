@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reelviews-bsit3a/static/css/main.9e4ce0f5.css",
-    "main.js": "/reelviews-bsit3a/static/js/main.860d6b84.js",
+    "main.js": "/reelviews-bsit3a/static/js/main.fe08141b.js",
     "static/js/787.2a3276af.chunk.js": "/reelviews-bsit3a/static/js/787.2a3276af.chunk.js",
     "static/media/contact-2.png": "/reelviews-bsit3a/static/media/contact-2.8a760032f90190b56f8c.png",
     "static/media/anticipated-movies-1.jpg": "/reelviews-bsit3a/static/media/anticipated-movies-1.f25926c0a0da65fbd981.jpg",
@@ -25,11 +25,11 @@
     "static/media/logo-2.png": "/reelviews-bsit3a/static/media/logo-2.eeedde3ca3eb4f84eca5.png",
     "index.html": "/reelviews-bsit3a/index.html",
     "main.9e4ce0f5.css.map": "/reelviews-bsit3a/static/css/main.9e4ce0f5.css.map",
-    "main.860d6b84.js.map": "/reelviews-bsit3a/static/js/main.860d6b84.js.map",
+    "main.fe08141b.js.map": "/reelviews-bsit3a/static/js/main.fe08141b.js.map",
     "787.2a3276af.chunk.js.map": "/reelviews-bsit3a/static/js/787.2a3276af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4ce0f5.css",
-    "static/js/main.860d6b84.js"
+    "static/js/main.fe08141b.js"
   ]
 }
